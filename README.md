@@ -43,6 +43,8 @@ Power Bi
     so you know exactly what was fixed and why
 # 📫 How to reach me:
    Email:    [chivikky22@gmail.com]
-   LinkedIn: [ linkedin.com/in/chinonso-ibeabuchi ]
+   LinkedIn: [www.linkedin.com/in/
+chinonso-ibeabuchi
+]
 
 
