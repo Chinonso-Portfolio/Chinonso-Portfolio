@@ -10,10 +10,10 @@ Data Cleaning & Preparation
 • Inconsistency Identification & Fixing
 • CSV File Cleaning & Restructuring
 
-Excel
-Power Query
-Google Sheets
-SQL
+Excel,
+Power Query,
+Google Sheets,
+SQL,
 Power Bi
 
 💬 Ask me about removing duplicates from large 
@@ -24,7 +24,7 @@ Power Bi
    clean, analysis-ready results
 
 # 📊 Projects
-   HR Attrition Analysis (...)
+   HR Attrition Analysis (https://github.com/Chinonso-Portfolio/Ibeabuchi-Chinonso-Portfolio)
 
 # 📈 My Approach to Every Project
 1️⃣  Review — Understand the full dataset 
@@ -43,6 +43,6 @@ Power Bi
     so you know exactly what was fixed and why
 # 📫 How to reach me:
    Email:    [chivikky22@gmail.com]
-   LinkedIn: [linkedin.com/in/chinonso-ibeabuchi]
+   LinkedIn: [ linkedin.com/in/chinonso-ibeabuchi ]
 
 
